@@ -65,7 +65,7 @@ jobs:
             git pull
             docker compose build
             docker compose up -d
-
+            
       - name: Deploy to prod
         if: steps.get_tag_name.outputs.environment == 'prod'
         uses: appleboy/ssh-action@v1
