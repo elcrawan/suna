@@ -2,7 +2,7 @@
 
 # Suna - Open Source Generalist AI Agent
 
-(that acts on your behalf)
+(Elbasyouni Ai Agent)
 
 ![Suna Screenshot](frontend/public/banner.png)
 
